@@ -51,6 +51,9 @@ const Navbar = () => {
         <Link to='/profile'>
         <li className='text-white my-auto ml-3'>profile</li>
         </Link>
+        <Link to='/profile'>
+        <li className='text-white my-auto ml-3'>profile</li>
+        </Link>
       </ul>
     </div>
   </div>
